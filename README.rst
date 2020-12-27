@@ -6,4 +6,4 @@ This Python project, myproj, is an example used by `Shun's Vineyard <https://shu
 
 Requirements
 ============
-- Python 3.7+
+- Python 3+
