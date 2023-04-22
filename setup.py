@@ -17,9 +17,9 @@ setuptools.setup(
     description="A simple Python project",
     long_description=README,
     long_description_content_type="text/x-rst",
-    url="https://github.com/shunsvineyard/myproj",
+    url="https://github.com/burpeesDaily/myproj",
     author="Shun Huang",
-    author_email="shunsvineyard@protonmail.com",
+    author_email="shun@forosa1544.com",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
