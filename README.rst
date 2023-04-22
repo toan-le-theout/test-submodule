@@ -1,9 +1,10 @@
-############################################
-A Python Simple Example for Shun's Vineyard
-############################################
+A Python Simple Example
+=======================
 
-This Python project, myproj, is an example used by `Shun's Vineyard <https://shunsvineyard.info/>`_.
+This Python project, ``myproj``, is an example used by my website formosa1544.com:
+
+* `Using Git Submodule and Develop Mode to Manage Python Projects <https://www.formosa1544.com/2019/12/23/using-git-submodule-and-develop-mode-to-manage-python-projects/>`_
 
 Requirements
-============
+
 - Python 3+
