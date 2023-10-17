@@ -1,3 +1,6 @@
 [submodule "commonlib"]
 	path = commonlib
 	url = git@github.com:burpeesDaily/commonlib.git
+[submodule "test-submodule-commonlib"]
+	path = test-submodule-commonlib
+	url = git@github.com:toan-le-theout/test-submodule-commonlib.git
